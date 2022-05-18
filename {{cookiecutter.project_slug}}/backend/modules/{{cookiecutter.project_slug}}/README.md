@@ -1,4 +1,4 @@
-# {{cookiecutter.project_title}} backend configuration and Info
+# {{cookiecutter.project_name}} backend configuration and Info
 
 Before starting the server run:
 

@@ -1,4 +1,4 @@
-# {{cookiecutter.project_title}} React native specs
+# {{cookiecutter.project_name}} React native specs
 
 ## Android specific Configs
 ---

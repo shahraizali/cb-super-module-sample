@@ -1,0 +1,8 @@
+{
+    "project_name": "CB super module",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "pkg_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "Skeleton project for a new CB super module",
+    "full_name": "Shahraiz Ali",
+    "email": "shahraiz.ali@crowdbotics.com"
+}

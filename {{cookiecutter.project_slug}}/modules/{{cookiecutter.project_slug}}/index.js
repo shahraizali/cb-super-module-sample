@@ -17,7 +17,7 @@ const FeatureName = () => {
 
   return (
     <View style={styles.heading}>
-      <Text>Empty Module</Text>
+      <Text>{{cookiecutter.project_name}}</Text>
     </View>
   );
 };

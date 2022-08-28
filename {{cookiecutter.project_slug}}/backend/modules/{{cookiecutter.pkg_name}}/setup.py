@@ -10,9 +10,9 @@ class BuildCommand(build):
 
 
 setup(
-    name="cb_{{cookiecutter.project_slug}}",
+    name="cb_{{cookiecutter.pkg_name}}",
     version="0.1",
-    packages=["{{cookiecutter.project_slug}}"],
+    packages=["{{cookiecutter.pkg_name}}"],
     install_requires=[],
     cmdclass={"build": BuildCommand},
 )

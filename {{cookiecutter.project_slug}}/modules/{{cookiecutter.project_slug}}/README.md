@@ -44,9 +44,10 @@ export const globalOptions = {
 
 ### Local Configs
 
-Update the value of the option in `module/{{cookiecutter.project_slug}}`:
-
+Update the value of the option in `modules/{{cookiecutter.project_slug}}/options.js`:
+```js
 const text = "I understand ...";
+```
 
 ## Manual Setup
 

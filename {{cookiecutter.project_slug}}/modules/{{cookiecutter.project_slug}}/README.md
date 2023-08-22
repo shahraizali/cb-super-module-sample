@@ -8,15 +8,15 @@ Include module's main features here and describe them.
 
 Include preview screenshots or videos here.
 
-## ## Features
+## Features
 
-[ ] This module includes environment variables.
-[ ] This module requires manual configurations.
-[ ] This module can be configured with module options.
-[ ] This module requires manual Android setup.
-[ ] This module requires manual iOS setup.
+- [ ] This module includes environment variables.
+- [ ] This module requires manual configurations.
+- [ ] This module can be configured with module options.
+- [ ] This module requires manual Android setup.
+- [ ] This module requires manual iOS setup.
 
-## ## 3rd party setup
+## 3rd party setup
 
 Create account...
 
@@ -29,7 +29,7 @@ Link to the READMEs of the packages that you used in this module.
 Dependencies used:
 - package-name and link to the package
 
-## ## Module Options
+## Module Options
 
 ### Global Configs
 
@@ -47,6 +47,8 @@ export const globalOptions = {
 Update the value of the option in `module/{{cookiecutter.project_slug}}`:
 
 const text = "I understand ...";
+
+## Manual Setup
 
 ### Android setup
 

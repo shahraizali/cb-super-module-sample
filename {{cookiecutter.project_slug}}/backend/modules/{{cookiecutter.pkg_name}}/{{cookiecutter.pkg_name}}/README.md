@@ -4,18 +4,20 @@
 
 Enter a module description here.
 
-## ## Features
+## Features
 
-[ ] This module includes migrations.
-[ ] This module includes environment variables.
-[ ] This module requires manual configurations.
-[ ] This module can be configured with module options.
+- [ ] This module includes migrations.
+- [ ] This module includes environment variables.
+- [ ] This module requires manual configurations.
+- [ ] This module can be configured with module options.
 
-## ## Environment variables
+## Environment variables
 
+```properties
 ENV_VAR="value"
+```
 
-## ## 3rd party setup
+## 3rd party setup
 
 Create account...
 
@@ -28,7 +30,7 @@ Link to the READMEs of the packages that you used in this module.
 Dependencies used:
 - package-name and link to the package
 
-## ## API details
+## API details
 
 | Api Name                       | Param        | Description                                                    |
 | ------------------------------ |:------------:|:---------------------------------------------------------------|
